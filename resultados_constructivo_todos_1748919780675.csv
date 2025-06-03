@@ -1,0 +1,8 @@
+Archivo,Costo_Constructivo,Energia_Constructivo,Vehiculos_Constructivo,Tiempo_Constructivo_ms
+test_system_1.json,308.83,696.10,51,1368
+test_system_2.json,1226.07,2219.77,121,1484
+test_system_3.json,2037.64,3270.83,148,2271
+test_system_4.json,3159.70,5697.85,227,4950
+test_system_5.json,5646.47,9058.58,308,4867
+test_system_6.json,6142.67,11478.27,389,11636
+test_system_7.json,11601.63,17336.35,517,24607
